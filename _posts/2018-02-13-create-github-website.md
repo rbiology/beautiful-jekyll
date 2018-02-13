@@ -71,8 +71,12 @@ The website follows **markdown** syntax. Click [here](https://github.com/adam-p/
 You can edit other parts of the page in a similar way to suit your website according to your needs.
 
 Some websites created by using beautiful-jekyll template are as follows:
+
 [https://deanattali.com](https://deanattali.com)
+
 [http://chauff.github.io](http://chauff.github.io)
+
 [http://derekogle.com/fishR](http://derekogle.com/fishR)
+
 
 ### Go ahead and have fun creating new webpages.
