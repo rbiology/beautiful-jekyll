@@ -3,6 +3,8 @@ layout: post
 title: Creating a free website using github
 image: /img/Octicons-mark-github.png
 ---
+Have you ever wanted to create your personal webpage? Did you know that it can be done for FREE? Today we will learn how to create a website for free in a very short time.
+We will be using [github](www.github.com) where we will host our webpage.
 
 ##Register for a github account
 Create an account on: [https://github.com] (https://github.com)
