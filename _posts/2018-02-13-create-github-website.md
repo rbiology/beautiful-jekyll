@@ -10,7 +10,7 @@ We will be using [github](https://github.com/) where we will host our webpage.
 Create an account on: [github] (https://github.com)
 1. Sign up for Github
 ![](rbiologyimages/01_githubusername.PNG) 
-![Register](https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/01_githubusername.PNG)
+![Register](https://rbiology.github.io/rbiologyimages/01_githubusername.PNG)
 2. Hit continue
 ![](rbiologyimages/02_continue.PNG)
 
