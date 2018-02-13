@@ -75,4 +75,4 @@ Some websites created by using beautiful-jekyll template are as follows:
 [http://chauff.github.io](http://chauff.github.io)
 [http://derekogle.com/fishR](http://derekogle.com/fishR)
 
-###Go ahead and have fun creating new webpages.
+### Go ahead and have fun creating new webpages.
