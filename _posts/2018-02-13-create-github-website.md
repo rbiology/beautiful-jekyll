@@ -13,6 +13,9 @@ image: rbiologyimages/01_githubusername.PNG
 2. Hit continue
 image: rbiologyimages/02_continue.PNG
 
+
+**Here is some bold text**
+
 Once you verify your email address, login to github.
 Click on Start Project or Create a new repository
 pic3a,pic3b
