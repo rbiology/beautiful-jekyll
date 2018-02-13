@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating a free website using github
-image: /img/GitHub-Mark.eps
+image: /img/Octicons-mark-github.svg
 ---
 
 Let's make a personal website using github.
