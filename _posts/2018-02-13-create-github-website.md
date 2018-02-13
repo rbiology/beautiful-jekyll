@@ -9,9 +9,9 @@ We will be using [github](https://github.com/) where we will host our webpage.
 ## Register for a github account
 Create an account on: [github] (https://github.com)
 1. Sign up for Github
-image: ![](rbiologyimages/01_githubusername.PNG) 
+![](rbiologyimages/01_githubusername.PNG) 
 2. Hit continue
-image: ![](rbiologyimages/02_continue.PNG)
+![](rbiologyimages/02_continue.PNG)
 
 **Here is some bold text**
 
