@@ -17,7 +17,7 @@ Create an account on: [github](https://github.com)
 Once you verify your email address, login to github.
 
 ## Fork a template repo
-Here we are using a free [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) template from the wonderful Dean Attali.
+Here we are using a free [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) template from the wonderful [Dean Attali](https://deanattali.com/).
 First thing, we want to do is **fork** the beautiful-jekyll repository. This creates a copy of the repository on our Github account.
 ![ForkRepo](https://rbiology.github.io/rbiologyimages/20_deanataliFork.PNG)
 
