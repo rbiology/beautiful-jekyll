@@ -40,7 +40,7 @@ We can view it at _username.github.io_ For me, it will be [rbiology.github.io](h
 
 Before doing this, we want to edit some parts and personalize the website.
 
-## Editing webpags
+## Editing webpages
 First, edit the details on _\_config.yml_ file. Scroll down the repository and open _\_config.yml_ by clicking it.
 ![](https://rbiology.github.io/rbiologyimages/26-edit.PNG)
 
