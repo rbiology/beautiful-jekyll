@@ -1,0 +1,11 @@
+Parts of Rstudio
+Setting Working Directory
+Installing and loading packages
+Input data format and loading input data
+Summarize and play with data
+Manipulate data with dplyr and tidyr
+Export data
+ANOVA
+post-hoc test
+Visualizing data using ggplot2
+
