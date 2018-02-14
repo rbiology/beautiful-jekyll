@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Creating a free website using github
+author: "Dev Paudel"
+date: "February 1, 2018"
+output:
+      html_document:
 image: /img/Octicons-mark-github.png
 ---
 Have you ever wanted to create your personal webpage? Did you know that it can be done for FREE? Today we will learn how to create a website for free in a very short time.
