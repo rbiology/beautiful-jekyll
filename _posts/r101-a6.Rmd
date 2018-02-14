@@ -1,0 +1,63 @@
+---
+title: "Group_by, summarize, and missing data"
+author: "Dev Paudel"
+date: "February 7, 2018"
+output: 
+      html_document:
+        keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Load packages and data:
+
+```{r}
+library(tidyverse)
+irisdata <- read_csv("irisdata.csv")
+```
+Many data analysis tasks can be approached using the _split-apply-combine_ paradigm: split the data into groups, apply some analysis to each group, and then combine the results. **_dplyr_** makes this very easy through the use of the **group_by()** function.
+**group_by()** is often used together with **summarize()**, which collapses each group into a single-row summary of that group. **group_by()** takes as arguments the column names that contain the categorical variables for which you want to calculate the summary statistics. So to compute the mean Sepal.Length by Species:
+
+```{r}
+irisdata %>% 
+  group_by(Species) %>% 
+  summarize(Mean_Length = mean(Sepal.Length))
+```
+
+#### Tallying
+To know the number of observations found for each factor or combination of factors, we can use **tally()**. For example, if we wanted to group by _Species_ and find the number of rows of data for each _Species_, we would do:
+
+```{r}
+irisdata %>% 
+  group_by(Species) %>% 
+  tally()
+```
+
+Here, **tally()** is the action applied to the groups created by **group_by()** and counts the total number of records for each category.
+
+#### Dealing with missing data
+Missing data is coded by _NA_ in R. If we want to remove those, we could insert a **filter()** in the chain: **is.na()** is a function that determines whether something is an _NA_. The **!** symbol negates the result. So, if we want to get every row, where _Sepal.Length_ is not an _NA_, we can do the following:
+
+```{r}
+irisdata %>% 
+  filter(!is.na(Sepal.Length)) %>% 
+  mutate(Sepal.Length_mm = Sepal.Length*10) %>% 
+  select(Species, Sepal.Length, Sepal.Length_mm) %>% 
+  head()
+```
+
+### Exporting data
+We can use the function **write_csv** in order to export data.
+First, create a new dataframe to export.
+```{r}
+setosadata <- irisdata %>%
+  filter(Species=="Setosa") %>%
+  select(Species, Sepal.Length, Sepal.Width)
+```
+Now, export this new dataframe:
+```{r}
+write_csv(setosadata, path="output/setosadata.csv")
+```
+
