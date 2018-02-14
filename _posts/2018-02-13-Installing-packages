@@ -1,0 +1,90 @@
+---
+title: 'R101-A2: Install packages'
+author: "Dev Paudel"
+date: "February 13, 2018"
+output:
+      html_document:
+        keep_md: true
+---
+
+
+## Installing packages
+Packages are collections of R functions, data, and compiled code in a well-defined format. The directory where packages are stored is called the library. R comes with a standard set of packages. Others are available for download and installation. Once installed, they have to be loaded into the session to be used.
+For most data wrangling processes, we will _tidyverse_ and _agricolae_ packages.
+We will first install these packages:
+
+```r
+install.packages("tidyverse")
+install.packages("agricolae")
+```
+
+_tidyverse_ tidyverse is an opinionated collection of R packages designed for data science including _dplyr_, _ggplot2_, _tidyr_, etc.. All packages share an underlying design philosophy, grammar, and data structures. 
+_agricolae_ package contains functionality for the Statistical Analysis of experimental designs applied specially for field experiments in agriculture and plant breeding.
+
+Installation of packages need to be done only once, after which we can load the packages that are installed by:
+
+
+```r
+library(agricolae)
+```
+
+```
+## Warning: package 'agricolae' was built under R version 3.3.3
+```
+
+```r
+library(tidyverse)
+```
+
+```
+## Warning: package 'tidyverse' was built under R version 3.3.3
+```
+
+```
+## -- Attaching packages ---------------------------------- tidyverse 1.2.1 --
+```
+
+```
+## v ggplot2 2.2.1     v purrr   0.2.4
+## v tibble  1.4.2     v dplyr   0.7.4
+## v tidyr   0.7.2     v stringr 1.2.0
+## v readr   1.1.1     v forcats 0.2.0
+```
+
+```
+## Warning: package 'ggplot2' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'tibble' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'tidyr' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'readr' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'purrr' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'dplyr' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'stringr' was built under R version 3.3.3
+```
+
+```
+## Warning: package 'forcats' was built under R version 3.3.3
+```
+
+```
+## -- Conflicts ------------------------------------- tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()
+```
