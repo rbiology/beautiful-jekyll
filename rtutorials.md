@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Rbiology
 author: "Dev Paudel"
 subtitle: R tutorials for biology
