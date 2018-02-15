@@ -25,9 +25,9 @@ description: R tutorials for beginners
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - ASPB: "https://aspb.org/"
+    - Plantae: "https://plantae.org/"
+    - PlantingScience: "https://plantingscience.org/"
   Tutorials: "rtutorials"
 
 # Image to show in the navigation bar - image must be a square (width = height)
