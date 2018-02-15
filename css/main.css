@@ -310,7 +310,7 @@ footer .theme-by {
 
 .post-preview {
   padding: 0px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 0px solid #eee;
 }
 
 @media only screen and (min-width: 768px) {
@@ -381,7 +381,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 16px;
   }
 }
 
@@ -537,7 +537,7 @@ footer .theme-by {
   margin-top: 0;
   background-color: #FCFCFC;
   margin: 0 0 40px;
-  padding: 20px 0;
+  padding: 5px 0;
   box-shadow: 0 0 5px #AAA;
 }
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
