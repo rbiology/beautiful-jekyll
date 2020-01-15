@@ -263,8 +263,8 @@ img {
 footer {
   padding: 30px 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: 50px;
-  font-size: 14px;
+  margin-top: 5px;
+  font-size: 10px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
@@ -291,7 +291,7 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  margin: 10px 0 0;
+  margin: 2px 0 0;
 }
 
 @media only screen and (min-width: 768px) {
@@ -302,7 +302,7 @@ footer .theme-by {
     font-size: 18px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 10px;
   }
 }
 
