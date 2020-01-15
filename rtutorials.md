@@ -26,6 +26,8 @@ This data can also be found in **R** by typing **iris**.
 
 [R-09: Create phylogeny using Open Tree of Life](https://rbiology.github.io/2018-05-25-phylo/) 
 
+[R-10: Population structure: Create genlight object from HapMap data](https://rbiology.github.io/2020-01-15-genlight/)
+
 
 Please login to comment.
 
