@@ -261,9 +261,9 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 30px 0;
+  padding: 1px 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: 5px;
+  margin-top: 1px;
   font-size: 10px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
@@ -296,10 +296,10 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 1px 0;
   }
   footer .footer-links {
-    font-size: 18px;
+    font-size: 10px;
   }
   footer .copyright {
     font-size: 10px;
