@@ -263,7 +263,7 @@ img {
 footer {
   padding: 1px 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: -50px;
+  margin-top: 0px;
   font-size: 10px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
@@ -701,7 +701,7 @@ td.gutter {
 /* --- Social media sharing section --- */
 
 #social-share-section {
-  margin-bottom: 30px;
+  margin-bottom: 2px;
 }
 
 /* --- Notification boxes --- */
