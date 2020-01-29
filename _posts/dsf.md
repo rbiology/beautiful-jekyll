@@ -1,0 +1,48 @@
+---
+title: P-01: Population Structure from HapMap data: Convert HapMap to genlight object'
+author: "Dev Paudel"
+date: "January 15, 2020"
+output:
+      html_document:
+        keep_md: true
+---
+For this tutorial series, we will be using data in _HapMap_ format that is used in TASSEL. 
+
+#### Install package
+
+```r
+devtools::install_github("dpaudel/dpaudelR") 
+```
+
+#### Load required package
+
+```r
+library(LDcorSV)
+library(adegenet)
+library(ggplot2)
+library(scales)
+library(tidyverse)
+library(dpaudelR)
+```
+
+#### Import data
+```
+mygeno=hapMap2genlight2(file.choose()) # Choose the hapmap file (remove # from rs# and assembly# in column names first)
+```
+
+#### Get the genlight object for DAPC
+```
+mygeno1 <- mygeno[[1]]
+```
+Remove _NA_
+
+```
+toRemove <- is.na(glMean(x, alleleAsUnit = FALSE)) # TRUE where NA when Error in glPca(flu) : NAs detected in the vector of means
+which(toRemove) # position of entirely non-typed loci
+b <- x[, !toRemove]
+```
+
+Now __b__ is our _genlight_ object.
+
+Follow the rest of the tutorial for further analysis.
+
