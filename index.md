@@ -16,7 +16,7 @@ author: "Dev Paudel"
   gtag('config', 'UA-38424446-2');
 </script>
 </head>
-
+<html>
 <img src="rbiologyimages/rtutorial_cover2.PNG" class="inline" width=350 align='middle'/>
 
 <a href=rtutorials.md>
@@ -28,3 +28,4 @@ author: "Dev Paudel"
  <p align='center'>
 This website was created by [Dev Paudel](https://dpaudel.github.io/) as a part of the [Conviron Scholar](https://aspb.org/awards-funding/aspb-awards/aspb-conviron-scholars-program/) program of the [American Society of Plant Biologists](https://aspb.org/) 2017.
 </p>
+</html>
