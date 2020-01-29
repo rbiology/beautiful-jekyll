@@ -21,7 +21,7 @@ author: "Dev Paudel"
 
 [Click to view the tutorials.](rtutorials.md)
 
-![(https://rbiology.github.io/rbiologyimages/img1_statistics.PNG)](rtutorials.md)
+![](https://rbiology.github.io/rbiologyimages/img1_statistics.PNG)(rtutorials.md)
 
 ![(https://rbiology.github.io/rbiologyimages/img2_popgen.PNG)](popgentutorials.md)
 
