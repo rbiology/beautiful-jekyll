@@ -17,8 +17,7 @@ author: "Dev Paudel"
 </script>
 </head>
 
-![](https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png)
-
+<img src="rbiologyimages/rtutorial_cover2.PNG" class="inline" height=100/>
 <a href=rtutorials.md>
 <img src="rbiologyimages/img1_statistics.PNG" class="inline" width=350/></a>
 <a href='popgentutorials.md'>
