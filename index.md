@@ -17,10 +17,11 @@ author: "Dev Paudel"
 </script>
 </head>
 
-<img src="rbiologyimages/rtutorial_cover2.PNG" class="inline" height=100/>
+<img src="rbiologyimages/rtutorial_cover2.PNG" class="inline" width=350 align='middle'/>
+
 <a href=rtutorials.md>
-<img src="rbiologyimages/img1_statistics.PNG" class="inline" width=350/></a>
+<img src="rbiologyimages/img1_statistics.PNG" class="inline" width=350 align='left'/></a>
 <a href='popgentutorials.md'>
-  <img src="rbiologyimages/img2_popgen.PNG" class="inline" width=350/></a>
+  <img src="rbiologyimages/img2_popgen.PNG" class="inline" width=350 align='right'/></a>
   
 This website was created by [Dev Paudel](https://dpaudel.github.io/) as a part of the [Conviron Scholar](https://aspb.org/awards-funding/aspb-awards/aspb-conviron-scholars-program/) program of the [American Society of Plant Biologists](https://aspb.org/) 2017.
