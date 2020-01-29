@@ -22,8 +22,11 @@ author: "Dev Paudel"
 [Click to view the tutorials.](rtutorials.md)
 
 ![](https://rbiology.github.io/rbiologyimages/img1_statistics.PNG)(rtutorials.md)
-
-<img src="rbiologyimages/img1_statistics.PNG" alt="hi" class="inline"/>
+<a href=rtutorials.md>
+<img src="rbiologyimages/img1_statistics.PNG" class="inline"/></a>
+<a href='popgentutorials.md'>
+  <img src="rbiologyimages/img2_popgen.PNG" class="inline"/></a>
+  
 ![(https://rbiology.github.io/rbiologyimages/img2_popgen.PNG)](popgentutorials.md)
 
 This website was created by [Dev Paudel](https://dpaudel.github.io/) as a part of the [Conviron Scholar](https://aspb.org/awards-funding/aspb-awards/aspb-conviron-scholars-program/) program of the [American Society of Plant Biologists](https://aspb.org/) 2017.
