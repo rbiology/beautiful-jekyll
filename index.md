@@ -16,6 +16,24 @@ use-site-title: true
 </script>
 </head>
 
+<table id="repo-table">
+<tbody>
+<tr>
+    <td id="cover"><center>
+      <a><img alt="cover" width="180" height="90" style="object-fit: contain;" src="rbiologyimages/rtutorial_cover2.PNG"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>whereami</b></div>
+      <a class="repo-description"></a>
+    </center></td>
+    <td id="shrynk"><center>
+      <a><img alt="shrynk" width="180" height="90" style="object-fit: contain;" src="https://uvreatio.sirv.com/Images/Shrynk.png"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>shrynk</b></div>
+      <a class="repo-description"></a>
+    </center></td>
+</tr>
+</tbody>
+</table>
+
+
 [["https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/rtutorial_cover2.PNG"]]('https://github.com/rbiology/rbiology.github.io/blob/master/rtutorials.md')
 
 [["https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG"]]('https://github.com/rbiology/rbiology.github.io/blob/master/rtutorials.md')
