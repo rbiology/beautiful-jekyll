@@ -42,9 +42,9 @@ use-site-title: true
 <a href='popgentutorials.md'>
 <img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG" class="inline" width=350 align='right'/></a>
 </p> 
-
+<a href='rbiology.md'>
 ![](rbiologyimages/img2_popgen.PNG "rtutorials.md")
-
+</a>
 This website was created by [Dev Paudel](https://dpaudel.github.io/) as a part of the [Conviron Scholar](https://aspb.org/awards-funding/aspb-awards/aspb-conviron-scholars-program/) program of the [American Society of Plant Biologists](https://aspb.org/) 2017.
 
 
