@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rbiology
+title: Population Genetics
 author: "Dev Paudel"
 subtitle: R tutorials for biology
 ---
