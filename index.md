@@ -20,12 +20,12 @@ use-site-title: true
 <tbody>
 <tr>
     <td id="cover"><center>
-      <a href='rtutorials.md'><img alt="cover" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG"></a>
+      <a href='rtutorials.md'><img alt="General Statistics" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>whereami</b></div>
       <a class="repo-description"></a>
     </center></td>
     <td id="shrynk"><center>
-      <a><img alt="shrynk" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG"></a>
+      <a href='popgentutorials.md'><img alt="Population Genetics" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>shrynk</b></div>
       <a class="repo-description"></a>
     </center></td>
