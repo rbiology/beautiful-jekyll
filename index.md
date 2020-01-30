@@ -16,7 +16,7 @@ use-site-title: true
 </script>
 </head>
 
-<img src="https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png" align="center" width="150" >
+<img src="https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png" align="middle" width="150" >
 
 Click below to view the tutorials.
 
