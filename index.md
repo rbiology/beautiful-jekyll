@@ -20,7 +20,7 @@ use-site-title: true
 <tbody>
 <tr>
     <td id="cover"><center>
-      <a href='rtutorials.md'><img alt="General Statistics" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG"></a>
+      <a href="https://github.com/rbiology/rbiology.github.io/blob/master/rtutorials.md"><img alt="General Statistics" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>whereami</b></div>
       <a class="repo-description"></a>
     </center></td>
