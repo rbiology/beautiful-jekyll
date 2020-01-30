@@ -25,7 +25,7 @@ use-site-title: true
       <a class="repo-description"></a>
     </center></td>
     <td id="shrynk"><center>
-      <a href='popgentutorials.md'><img alt="Population Genetics" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG"></a>
+      <a href='popgentutorials'><img alt="Population Genetics" width="180" height="90" style="object-fit: contain;" src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>shrynk</b></div>
       <a class="repo-description"></a>
     </center></td>
@@ -39,10 +39,10 @@ use-site-title: true
 [["https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG"]](popentutorials)
 <p>
 <img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG" class="inline" width=350 align='left'/></a>
-<a href='popgentutorials.md'>
+<a href='popgentutorials'>
 <img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG" class="inline" width=350 align='right'/></a>
 </p> 
-<a href='rtutorials.md'>
+<a href='rtutorials'>
 ![](rbiologyimages/img2_popgen.PNG "rtutorials.md")
 </a>
 
