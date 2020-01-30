@@ -17,13 +17,13 @@ use-site-title: true
 </head>
 
 <p style="text-align:center;">
-<img src="https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png" align="middle" width="250" >
-</p>
 
 Click below to view the tutorials.
 
 <a href="rtutorials"><img src="https://rbiology.github.io/rbiologyimages/img1_statistics.PNG" align="bottom" width="250" ></a>
 <a href="popgentutorials"><img src="https://rbiology.github.io/rbiologyimages/img2_popgen.PNG" align="bottom" width="250" ></a>\
+
+</p>
 
 This website was created by [Dev Paudel](https://dpaudel.github.io/) as a part of the [Conviron Scholar](https://aspb.org/awards-funding/aspb-awards/aspb-conviron-scholars-program/) program of the [American Society of Plant Biologists](https://aspb.org/) 2017.
 
