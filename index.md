@@ -54,6 +54,8 @@ use-site-title: true
 
 [Click here to view the tutorials.](rtutorials.md)
 
+<a href="rtutorials"><img src="https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png" align="left" height="48" width="48" ></a>
+
 This website was created by [Dev Paudel](https://dpaudel.github.io/) as a part of the [Conviron Scholar](https://aspb.org/awards-funding/aspb-awards/aspb-conviron-scholars-program/) program of the [American Society of Plant Biologists](https://aspb.org/) 2017.
 
 
