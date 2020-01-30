@@ -46,7 +46,7 @@ use-site-title: true
 ![](https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png)
 
 <a href='rtutorials'>
-![](rbiologyimages/img1_statistics.PNG)
+![](rbiologyimages/img1_statistics.PNG|width=250px)
 </a>
 <a href='popgentutorials'>
 ![](rbiologyimages/img2_popgen.PNG)
