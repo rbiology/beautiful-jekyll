@@ -42,11 +42,15 @@ use-site-title: true
 <a href='popgentutorials'>
 <img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG" class="inline" width=350 align='right'/></a>
 </p> 
-<a href='rtutorials'>
-![](rbiologyimages/img2_popgen.PNG "rtutorials.md")
-</a>
 
 ![](https://rbiology.github.io/rbiologyimages/rtutorial_cover2.png)
+
+<a href='rtutorials'>
+![](rbiologyimages/img1_statistics.PNG)
+</a>
+<a href='popgentutorials'>
+![](rbiologyimages/img2_popgen.PNG)
+</a>
 
 [Click here to view the tutorials.](rtutorials.md)
 
