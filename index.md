@@ -16,9 +16,9 @@ use-site-title: true
 </script>
 </head>
 
+[["https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/rtutorial_cover2.PNG"]]('https://github.com/rbiology/rbiology.github.io/blob/master/rtutorials.md')
+  
 <p>
-<img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/rtutorial_cover2.PNG" class="inline" width=350 align='middle'/>
-<a href='https://github.com/rbiology/rbiology.github.io/blob/master/rtutorials.md'>
 <img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img1_statistics.PNG" class="inline" width=350 align='left'/></a>
 <a href='popgentutorials.md'>
 <img src="https://github.com/rbiology/rbiology.github.io/blob/master/rbiologyimages/img2_popgen.PNG" class="inline" width=350 align='right'/></a>
