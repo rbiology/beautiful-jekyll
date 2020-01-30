@@ -20,8 +20,8 @@ use-site-title: true
 
 Click below to view the tutorials.
 
-<a href="rtutorials"><img src="https://rbiology.github.io/rbiologyimages/img1_statistics.PNG" align="left" width="250" ></a>
-<a href="popgentutorials"><img src="https://rbiology.github.io/rbiologyimages/img2_popgen.PNG" align="left" width="250" ></a>\
+<a href="rtutorials"><img src="https://rbiology.github.io/rbiologyimages/img1_statistics.PNG" align="bottom" width="250" ></a>
+<a href="popgentutorials"><img src="https://rbiology.github.io/rbiologyimages/img2_popgen.PNG" align="bottom" width="250" ></a>\
 \
 \
 \
